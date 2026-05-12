@@ -7,4 +7,5 @@ dependencies = [
     "fastmcp>=3.2.4",
     "google-adk>=1.33.0",
     "python-amazon-sp-api>=2.1.8",
+    "python-dotenv>=1.0.0",
 ]
